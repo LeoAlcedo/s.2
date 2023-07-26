@@ -1,0 +1,21 @@
+/* Estilo de forma universal*/ 
+*{
+   margin: 0px ;
+    padding: 0px;
+}
+/* Estilo de toda estructura*/ 
+body{
+    font-size:12px;
+    margin: 100px 550px ;
+    
+}
+/* Estilo del cuadro*/ 
+.estilos{
+ background-color: #CCC ;
+  border-style:solid ;
+  padding: 2px 4px;
+}
+/* Estilo del titulo*/
+ h2{
+    box-shadow: 2px 2px 2px #e8f7b0;
+ }
